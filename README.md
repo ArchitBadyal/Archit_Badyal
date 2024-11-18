@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -82,4 +81,45 @@ body {
     <p>This website has a colored background.</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorful Background</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #ff9a9e, #fad0c4, #fad0c4, #fcb69f);
+            background-size: 300% 300%;
+            animation: gradient 10s ease infinite;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
 
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        h1 {
+            font-size: 3rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Colorful Website!</h1>
+</body>
+</html>
