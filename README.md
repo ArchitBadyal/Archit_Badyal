@@ -1,4 +1,3 @@
-# Archit_Badyal
 <!DOCTYPE html>
 <html lang="en">
 <head>
