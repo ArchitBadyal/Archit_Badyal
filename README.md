@@ -55,47 +55,7 @@
 </body>
 </html>
 
-    <!-- Projects Section -->
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="project-grid">
-            <div class="project">
-                <img src="images/project1.jpg" alt="Project 1">
-                <h3>Project 1</h3>
-                <p>A cool project I worked on.</p>
-            </div>
-            <div class="project">
-                <img src="images/project2.jpg" alt="Project 2">
-                <h3>Project 2</h3>
-                <p>Another amazing project.</p>
-            </div>
-            <div class="project">
-                <img src="images/project3.jpg" alt="Project 3">
-                <h3>Project 3</h3>
-                <p>My latest creation.</p>
-            </div>
-        </div>
-    </section>
 
-    <!-- Contact Section -->
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <form>
-            <input type="text" placeholder="Your Name" required>
-            <input type="email" placeholder="Your Email" required>
-            <textarea placeholder="Your Message" required></textarea>
-            <button type="submit">Send Message</button>
-        </form>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2024 Archit. All rights reserved.</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
