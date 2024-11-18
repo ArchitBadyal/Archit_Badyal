@@ -24,7 +24,7 @@ Archit Badyal
 </head>
 <body>
     <h1>Computer Fundamental 1</h1></h1>
-    <iframe src="https://drive.google.com/file/d/11cKTBKhdeQNxabM1rxLTijop27q_Lry_/view?usp=drivesdk" width="100%" height="600px"></iframe>
+    <iframe src="https://coffee-shina-74.tiiny.site" width="100%" height="600px"></iframe>
 </body>
 </html>
 <html lang="en">
