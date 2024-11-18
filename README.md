@@ -16,13 +16,13 @@ Archit Badyal
     <p>This page provide you old question paper solved.</p>
 </body>
 </html>
-Question paper of these subject 
-Computer fundamental
-C programing
-Math
-Applied English
-Office Automation Tools
-Environmental science
+<p>Question paper of these subject</p>
+<p>Computer fundamental</p>
+<p>Math</p>
+<p>C program</p>
+<p>Aplied English</p>
+<p>Office Automation tool</p>
+<p>Environmemt Science</p>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
