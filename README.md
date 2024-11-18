@@ -6,8 +6,8 @@ Archit Badyal
     <title>Green Background</title>
     <style>
         body {
-            background-color: yellow;
-            color: green; /* Optional: Text color for better contrast */
+            background-color: orange;
+            color: black; /* Optional: Text color for better contrast */
         }
     </style>
 </head>
