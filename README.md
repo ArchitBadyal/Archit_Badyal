@@ -175,13 +175,6 @@
       background-color: #f44336;
       position: absolute;
     }
-    .score {
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      color: #fff;
-      font-size: 18px;
-    }
   </style>
 </head>
 <body>
