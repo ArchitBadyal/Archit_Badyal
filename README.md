@@ -1,5 +1,4 @@
 Archit Badyal
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,7 @@ Archit Badyal
     </style>
 </head>
 <body>
-    <h1>Welcome to the Green Background Page!</h1>
-    <p>This page has a green background.</p>
+    <h1>Welcome to my Website Friends Page!</h1>
+    <p>This page provide you old question paper solved.</p>
 </body>
 </html>
