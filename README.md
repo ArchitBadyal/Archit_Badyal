@@ -54,5 +54,7 @@
     <script src="script.js"></script>
 </body>
 </html>
-
+body {
+  background-color: #3498db; /* Example: a shade of blue */
+}
 
