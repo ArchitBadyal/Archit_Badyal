@@ -16,15 +16,14 @@ Archit Badyal
     <p>This page provide you old question paper solved.</p>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embed PDF using iframe</title>
+    <title>Computer fundamental 1</title>
 </head>
 <body>
-    <h1>PDF Embedded using iframe</h1>
+    <h1>https://drive.google.com/file/d/12E0wN6fsWQ8zFg9P4vN2JSQrK977qi0E/view?usp=drivesdk</h1>
     <iframe src="your-file.pdf" width="100%" height="600px"></iframe>
 </body>
 </html>
@@ -32,10 +31,10 @@ Archit Badyal
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embed PDF using iframe</title>
+    <title>Computer fundamental 2</title>
 </head>
 <body>
-    <h1>PDF Embedded using iframe</h1>
+    <h1>https://drive.google.com/file/d/11cKTBKhdeQNxabM1rxLTijop27q_Lry_/view?usp=drivesdk</h1>
     <iframe src="your-file.pdf" width="100%" height="600px"></iframe>
 </body>
 </html>
