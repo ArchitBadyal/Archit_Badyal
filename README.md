@@ -6,13 +6,13 @@ Archit Badyal
     <title>Green Background</title>
     <style>
         body {
-            background-color: green;
-            color: white; /* Optional: Text color for better contrast */
+            background-color: yellow;
+            color: green; /* Optional: Text color for better contrast */
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to my Website Friends Page!</h1>
+    <h1>Welcome to my Website Friends </h1>
     <p>This page provide you old question paper solved.</p>
 </body>
 </html>
