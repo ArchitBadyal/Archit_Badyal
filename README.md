@@ -38,18 +38,6 @@ Archit Badyal
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Computer fundamental 2</title>
-</head>
-<body>
-    <h1>Computer fundamental 2</h1>
-    <iframe src="      " width="100%" height="600px"></iframe>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Download Icon</title>
     <style>
         .download-icon {
@@ -70,9 +58,9 @@ Archit Badyal
     </style>
 </head>
 <body>
-    <h1>Download File</h1>
+    <h1>Download PDF 1</h1>
     <!-- Replace "file.pdf" with the file you want to allow users to download -->
-    <a href="https://coffee-shina-74.tiiny.site" download="https://coffee-shina-74.tiiny.site" class="download-icon" title="Download File 1">
+    <a href="https://coffee-shina-74.tiiny.site" download="https://coffee-shina-74.tiiny.site" class="download-icon" title="Download PDF 1">
         ⬇
     </a>
 </body>
