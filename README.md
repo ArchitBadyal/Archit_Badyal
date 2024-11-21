@@ -145,7 +145,23 @@
 </head>
 <body>
   <div class="download-icon">
-    <a hrefy="https://drive.google.com/file/d/12E0wN6fsWQ8zFg9P4vN2JSQrK977qi0E/view?usp=drivesdk" download>Download</a>
+    <a hrefy="">Download</a>
+  </div>
+</body>
+</html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Download Icon Button</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="download-container">
+    <a href="yourfile.pdf" download class="download-button">
+      <span class="icon">⬇</span>
+      <span class="text">Download</span>
+    </a>
   </div>
 </body>
 </html>
