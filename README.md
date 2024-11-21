@@ -87,3 +87,65 @@
 
 
 <h1>BCA 1st Semester</h1>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Download PDF 1</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+    }
+
+    .download-icon {
+      width: 150px;
+      height: 100px;
+      border: 2px solid #007bff;
+      border-radius: 8px;
+      position: relative;
+      text-align: center;
+    }
+
+    .download-icon::before {
+      content: "📄";
+      position: absolute;
+      top: 15px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 40px;
+    }
+
+    .download-icon a {
+      display: block;
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      text-decoration: none;
+      color: #fff;
+      background-color: #007bff;
+      padding: 5px 15px;
+      border-radius: 5px;
+      font-size: 14px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    .download-icon a:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="download-icon">
+    <a href="yourfile.pdf" download>Download</a>
+  </div>
+</body>
+</html>
