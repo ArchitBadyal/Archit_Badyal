@@ -36,4 +36,4 @@
 <p>This website provide you Bca modal paper or previous paper for study Well. </p>
 
 
-<title>BCA 1st Semester</title>
+<h1>BCA 1st Semester</h1>
