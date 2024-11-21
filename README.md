@@ -1,4 +1,53 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BCA Logo</title>
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f3f4f6;
+      font-family: Arial, sans-serif;
+    }
 
+    .logo-container {
+      width: 200px;
+      height: 200px;
+      background: linear-gradient(135deg, #ff7eb3, #ff758f, #ffa454, #4caf50, #54ffff, #547eff, #7e54ff);
+      background-size: 300% 300%;
+      animation: gradientAnimation 8s ease infinite;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    @keyframes gradientAnimation {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .logo-text {
+      font-size: 48px;
+      font-weight: bold;
+      color: white;
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+      letter-spacing: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-container">
+    <div class="logo-text">BCA</div>
+  </div>
+</body>
+</html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
