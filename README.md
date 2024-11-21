@@ -145,7 +145,7 @@
 </head>
 <body>
   <div class="download-icon">
-    <a hrefy=https://coffee-shina-74.tiiny.site" download>Download</a>
+    <a hrefy=" download>Download</a>
   </div>
 </body>
 </html>
