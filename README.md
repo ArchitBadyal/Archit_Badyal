@@ -88,18 +88,9 @@
 
 <p>This website provide you Bca modal paper or previous paper for study Well. </p>
 
-
 <h1>BCA 1st Semester</h1>
-  
-
-
-<h1>(MATH) </h>
-
-
 
 <h1>PDF 1<h1>
-
-
 
 <html lang="en">
 <head>
