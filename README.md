@@ -45,15 +45,6 @@ Archit Badyal
     <iframe src="      " width="100%" height="600px"></iframe>
 </body>
 </html>
-https://github.com/username/repository-name/blob/main/your-image.png?raw=true
-body {
-  background-image: url('https://github.com/username/repository-name/blob/main/your-image.png?raw=true');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-git add .
-git commit -m "Added homepage background image"
-git push origin main
+
 
 
