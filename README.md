@@ -23,9 +23,9 @@
       justify-content: center;
       align-items: center;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-      color: white;
-      font-size: 20px;
-      font-weight: bold;
+      color: black;
+      font-size: 25px;
+      font-weight:geek;
       text-align: center;
     }
 
