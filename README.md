@@ -72,11 +72,8 @@ Archit Badyal
 <body>
     <h1>Download File</h1>
     <!-- Replace "file.pdf" with the file you want to allow users to download -->
-    <a href="file.pdf" download="MyFile.pdf" class="download-icon" title="Download File">
+    <a href="https://coffee-shina-74.tiiny.site" download="https://coffee-shina-74.tiiny.site" class="download-icon" title="Download File 1">
         ⬇
     </a>
 </body>
 </html>
-
-
-
