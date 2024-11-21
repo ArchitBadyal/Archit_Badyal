@@ -93,28 +93,7 @@
   
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0>
-    <style>
-        h1 {
-            font-size: 3em;
-            color: red; /* Text color */
-            text-shadow: 
-                -1px -1px 0 black, /* Top-left outline */
-                 1px -1px 0 black, /* Top-right outline */
-                -1px  1px 0 black, /* Bottom-left outline */
-                 1px  1px 0 black; /* Bottom-right outline */
-            text-align: center;
-            margin-top: 20%;
-        }
-    </style>
-</head>
-<body>
-    <h1>Mathematics</h1>
-</body>
-</html>
+<h1>(MATH) </h>
 
 
 
