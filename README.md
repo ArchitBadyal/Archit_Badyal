@@ -45,6 +45,38 @@ Archit Badyal
     <iframe src="      " width="100%" height="600px"></iframe>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Icon</title>
+    <style>
+        .download-icon {
+            display: inline-block;
+            text-decoration: none;
+            color: #000;
+            font-size: 24px;
+            border: 2px solid #000;
+            padding: 10px;
+            border-radius: 50%;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .download-icon:hover {
+            background-color: #000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Download File</h1>
+    <!-- Replace "file.pdf" with the file you want to allow users to download -->
+    <a href="file.pdf" download="MyFile.pdf" class="download-icon" title="Download File">
+        ⬇
+    </a>
+</body>
+</html>
 
 
 
