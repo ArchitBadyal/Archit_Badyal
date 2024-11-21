@@ -97,26 +97,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MATH</title>
+    <title>Math Title</title>
     <style>
         h1 {
             font-size: 3em;
-            color: white; /* Main text color */
+            color: red; /* Text color */
             text-shadow: 
-                2px 2px 0px red,   /* Top-right outline */
-                -2px -2px 0px blue, /* Bottom-left outline */
-                2px -2px 0px green, /* Top-left outline */
-                -2px 2px 0px yellow; /* Bottom-right outline */
+                -1px -1px 0 black, /* Top-left outline */
+                 1px -1px 0 black, /* Top-right outline */
+                -1px  1px 0 black, /* Bottom-left outline */
+                 1px  1px 0 black; /* Bottom-right outline */
             text-align: center;
             margin-top: 20%;
-        }
-        body {
-            background-color: black; /* For better contrast */
         }
     </style>
 </head>
 <body>
-    <h1>MATH</h1>
+    <h1>Mathematics</h1>
 </body>
 </html>
 
