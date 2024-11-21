@@ -48,6 +48,9 @@
   </div>
 </body>
 </html>
+
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -87,7 +90,42 @@
 
 
 <h1>BCA 1st Semester</h1>
+  
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MATH</title>
+    <style>
+        h1 {
+            font-size: 3em;
+            color: white; /* Main text color */
+            text-shadow: 
+                2px 2px 0px red,   /* Top-right outline */
+                -2px -2px 0px blue, /* Bottom-left outline */
+                2px -2px 0px green, /* Top-left outline */
+                -2px 2px 0px yellow; /* Bottom-right outline */
+            text-align: center;
+            margin-top: 20%;
+        }
+        body {
+            background-color: black; /* For better contrast */
+        }
+    </style>
+</head>
+<body>
+    <h1>MATH</h1>
+</body>
+</html>
+
+
+
 <h1>PDF 1<h1>
+
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
