@@ -2,6 +2,49 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archit Badyal Logo</title>
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+
+    .logo-circle {
+      width: 200px;
+      height: 200px;
+      background: linear-gradient(135deg, #4caf50, #2196f3);
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      color: white;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .logo-circle span {
+      display: inline-block;
+      line-height: 1.2;
+    }
+  </style>
+</head>
+<body>
+  <div class="logo-circle">
+    <span>Archit<br>Badyal</span>
+  </div>
+</body>
+</html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Colorful Background</title>
   <style>
     body {
