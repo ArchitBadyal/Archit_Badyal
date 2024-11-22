@@ -192,7 +192,7 @@
     }
 
     .download-icon::before {
-      content: "🤬";
+      content: "🇮🇳";
       position: absolute;
       top: 15px;
       left: 50%;
