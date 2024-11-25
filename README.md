@@ -65,7 +65,7 @@
       justify-content: center;
       font-family: Arial, sans-serif;
       background: linear-gradient(45deg, #ff7eb3, #ff758f, #ffa454, #ffff54, #54ff7e, #54ffff, #547eff, #7e54ff, #ff54ff);
-      background-size: 400% 400%;
+      background-size: 900% 900%;
       animation: gradientAnimation 10s ease infinite;
     }
 
