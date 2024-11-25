@@ -16,7 +16,7 @@
 
     .logo-container {
       width: 200px;
-      height: 200px;
+      height: 600px;
       background: linear-gradient(135deg, #ff7eb3, #ff758f, #ffa454, #4caf50, #54ffff, #547eff, #7e54ff);
       background-size: 600% 600%;
       animation: gradientAnimation 8s ease infinite;
